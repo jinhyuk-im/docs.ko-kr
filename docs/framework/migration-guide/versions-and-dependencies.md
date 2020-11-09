@@ -32,7 +32,7 @@ CLR은 고유한 버전 번호로 식별됩니다. .NET Framework 버전 번호�
 
 다음 표에는 .NET Framework 버전 기록이 요약되어 있으며 Visual Studio, Windows 및 Windows Server와의 상관 관계가 나와 있습니다. Visual Studio에서는 나열된 .NET Framework 버전으로 사용이 제한되지 않도록 멀티 타기팅을 지원합니다.
 
-- 확인 표시 아이콘(➕)은 .NET Framework가 기본적으로 설치되어 있는 OS 버전을 나타냅니다.
+- 확인 표시 아이콘(✔️)은️ .NET Framework가 기본적으로 설치되어 있는 OS 버전을 나타냅니다.
 - 더하기 기호 아이콘(➕)은 .NET Framework가 미리 설치되지 않았지만 설치할 수 있는 OS 버전을 나타냅니다.
 - 별표 * *\** _은 사전 설치 여부와 관계없이 [제어판](../install/dotnet-35-windows-10.md)이나 서버 관리자(Windows Server의 경우)를 통해 .NET Framework를 사용하도록 설정해야 하는 OS 버전을 나타냅니다.
 
